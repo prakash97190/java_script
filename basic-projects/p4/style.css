@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+    background: #877652;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #719fb7;
+    width: 500px;
+    margin: 100px;
+    padding: 20px;
+    border-radius: 9px;
+    color: #353635;
+    font-size: larger;
+    font-style: inherit;
+}
+.container input{
+    background-color: #635d5d;
+    font-size: medium;
+   
+}
